@@ -1,0 +1,14 @@
+{
+  "description": "OSD_feature 3",
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Theme-Bar Changer (4 Hours)",
+
+  "permissions": [
+    "alarms",
+    "theme"
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  }
+}
